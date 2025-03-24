@@ -79,7 +79,8 @@ All Docker configurations were set up within IntelliJ IDEA Ultimate.
 ```
 
 ## gRPC Integration (Billing Service)
-The **Billing Service** exposes a gRPC-based API for creating billing accounts. It listens for **BillingRequest** messages and responds with **BillingResponse** messages containing the generated account details.
+The **Billing Service** exposes a gRPC-based API for creating billing accounts.
+It listens for **BillingRequest** messages and responds with **BillingResponse** messages containing the generated account details.
 
 
 
